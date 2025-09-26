@@ -1,0 +1,138 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "usePrefix": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "noprefixDisabled": [],
+    "LOGIN": {
+        "EMAIL": "",
+        "PASSWORD": "",
+        "OTPKEY": ""
+    },
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "𝑺𝒖𝒎𝒊",
+    "PREFIX": "-",
+    "ADMINBOT": [
+        "100000493975005"
+    ],
+    "NDH": [
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true
+    },
+    "version": "1.2.14",
+    "theadUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "join": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "leave": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "bank": {
+        "APIKEY": "chinhdz"
+    },
+    "cave": {
+        "cooldownTime": 100000
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "ghép": {
+        "cooldownTime": 300000
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "sim": {
+        "APIKEY": "API-1234-abcd-1234-abcd"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBJl0esWNv12ukwIjSARrqof0zI2XXt3Y4"
+    },
+    "voices": {
+        "ZALO_API": "nWaXzdlpZzdMKdcjz1DCQ2xXH5tGxm6r"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": ""
+    },
+    "zwar": {
+        "cooldownTime": 1200000
+    },
+    "imgur": {
+        "Client": "c76eb7edd1459f3"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "adc": {
+        "ADC_KEY": "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"
+    },
+    "xemtt": {
+        "maxColumn": 10
+    },
+    "checknude": {
+        "maxColumn": 10
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "adminPaseOnly": false,
+    "lam": {
+        "cooldownTime": 1200000
+    },
+    "spamregbox": {
+        "spamDelay": 2
+    },
+    "anti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "anti2": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "consoleEnabled": true
+}

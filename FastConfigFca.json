@@ -1,0 +1,30 @@
+{
+	"Language": "vi",
+	"MainColor": "#9900FF",
+	"MainName": "[ FCA-DŨNGKON ]",
+	"Uptime": false,
+	"Config": "default",
+	"DevMode": false,
+	"ResetDataLogin": false,
+	"AutoRestartMinutes": 0,
+	"RestartMQTT_Minutes": 60,
+	"AntiGetInfo": {
+		"Database_Type": "default",
+		"AntiGetThreadInfo": true,
+		"AntiGetUserInfo": true
+	},
+	"Stable_Version": {
+		"Accept": false,
+		"Version": ""
+	},
+	"AntiStuckAndMemoryLeak": {
+		"AutoRestart": {
+			"Use": true,
+			"Explain": "When this feature is turned on, the system will continuously check and confirm that if memory usage reaches 90%, it will automatically restart to avoid freezing or stopping."
+		},
+		"LogFile": {
+			"Use": false,
+			"Explain": "Record memory usage logs to fix errors. Default location: gojo/memory.logs"
+		}
+	}
+}
