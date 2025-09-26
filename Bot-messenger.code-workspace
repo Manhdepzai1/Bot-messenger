@@ -1,0 +1,59 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/sumi/scriptbot"
+		},
+		{
+			"path": "../../../Downloads/sumi/cache"
+		},
+		{
+			"path": "../../../Downloads/sumi/img"
+		},
+		{
+			"path": "../../../Downloads/sumi/datadkjson"
+		},
+		{
+			"path": "../../../Downloads/sumi/database"
+		},
+		{
+			"path": "../../../Downloads/sumi/hzi"
+		},
+		{
+			"path": "../../../Downloads/sumi/commands"
+		},
+		{
+			"path": "../../../Downloads/sumi/data"
+		},
+		{
+			"path": "../../../Downloads/sumi/uids"
+		},
+		{
+			"path": "../../../Downloads/sumi/utils"
+		},
+		{
+			"path": "../../../Downloads/sumi/node_modules"
+		},
+		{
+			"path": "../../../Downloads/sumi/log"
+		},
+		{
+			"path": "../../../Downloads/sumi/main"
+		},
+		{
+			"path": "../../../Downloads/sumi/modules"
+		},
+		{
+			"path": "../../../Downloads/sumi/nodemodules"
+		},
+		{
+			"path": "../../../Downloads/sumi/includes"
+		},
+		{
+			"path": "../../../Downloads/sumi/Data_Vtuan"
+		}
+	],
+	"settings": {}
+}
